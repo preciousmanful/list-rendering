@@ -1,0 +1,18 @@
+.book-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.book-item{
+  width: fit-content;
+  background: #7a7878;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.book-container h3{
+  background: #eaedea;
+  padding: 5px;
+  border-radius: 5px;
+}
